@@ -64,6 +64,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📮 Contact
 
-Sagnik Datta - [Your LinkedIn Profile Link Here] - [Your Email Here]
+Sagnik Datta - sagnik.datta111@gmail.com
 
 Project Link: [https://github.com/sagnikdatta2k6/WIN98-PORTFOLIO](https://github.com/sagnikdatta2k6/WIN98-PORTFOLIO)
